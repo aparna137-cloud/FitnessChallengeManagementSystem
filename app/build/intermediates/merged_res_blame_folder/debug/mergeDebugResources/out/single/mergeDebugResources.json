@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\drawable_ic_admin.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\drawable\\ic_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\drawable_ic_workout.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\drawable\\ic_workout.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\layout_item_activity.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\layout\\item_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\layout_activity_admin_dashboard.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\layout\\activity_admin_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\drawable_ic_challenges.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\drawable\\ic_challenges.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\drawable_ic_calendar.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\drawable\\ic_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\layout_activity_add_edit_challenge.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\layout\\activity_add_edit_challenge.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\drawable_ic_running.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\drawable\\ic_running.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\layout_activity_add_activity.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\layout\\activity_add_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\layout_fragment_challenges.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\layout\\fragment_challenges.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\drawable_bg_badge_gold.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\drawable\\bg_badge_gold.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\drawable_bg_badge_user.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\drawable\\bg_badge_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\drawable_ic_cycling.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\drawable\\ic_cycling.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\drawable_ic_profile.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\drawable_bg_badge_bronze.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\drawable\\bg_badge_bronze.xml"
+    },
+    {
+        "merged": "com.example.fitnesschallenge.app-debug-40:/layout_activity_login.xml.flat",
+        "source": "com.example.fitnesschallenge.app-main-42:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\drawable_ic_trophy.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\drawable\\ic_trophy.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\drawable_ic_target.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\drawable\\ic_target.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\anim_slide_up.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\layout_activity_admin_user_progress.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\layout\\activity_admin_user_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\layout_item_challenge.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\layout\\item_challenge.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\drawable_ic_check_circle.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\drawable\\ic_check_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\drawable_ic_progress.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\drawable\\ic_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\drawable_ic_edit.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\layout_activity_manage_challenges.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\layout\\activity_manage_challenges.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\drawable_ic_user.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\drawable\\ic_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\layout_activity_participants.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\layout\\activity_participants.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\drawable_ic_pushups.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\drawable\\ic_pushups.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\layout_item_user.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\layout\\item_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\layout_fragment_leaderboard.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\layout\\fragment_leaderboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\drawable_ic_fitness_logo.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\drawable\\ic_fitness_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\layout_fragment_progress.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\layout\\fragment_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\drawable_bg_chip.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\drawable\\bg_chip.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\layout_activity_manage_users.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\layout\\activity_manage_users.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\drawable_ic_points.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\drawable\\ic_points.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\drawable_bg_rounded_card.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\drawable\\bg_rounded_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\anim_fade_in.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\layout_dialog_edit_profile.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\layout\\dialog_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\layout_activity_user_details.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\layout\\activity_user_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\drawable_ic_my_challenges.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\drawable\\ic_my_challenges.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\layout_fragment_my_challenges.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\layout\\fragment_my_challenges.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\drawable_ic_refresh.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\drawable\\ic_refresh.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\drawable_ic_leaderboard.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\drawable\\ic_leaderboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\layout_item_leaderboard.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\layout\\item_leaderboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\drawable_bg_badge_silver.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\drawable\\bg_badge_silver.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\layout_item_participant.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\layout\\item_participant.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\drawable_ic_steps.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\drawable\\ic_steps.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\layout_activity_challenge_details.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\layout\\activity_challenge_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-debug-40:\\layout_item_my_challenge.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\9.6.0\\com.example.fitnesschallenge.app-main-42:\\layout\\item_my_challenge.xml"
+    }
+]

@@ -1,0 +1,9 @@
+com.example.fitnesschallenge.app-pngs-0 C:\Users\DELL\Desktop\FitnessChallengeManagementSystem\app\build\generated\res\pngs\debug
+com.example.fitnesschallenge.app-res-1 C:\Users\DELL\Desktop\FitnessChallengeManagementSystem\app\build\generated\res\processDebugGoogleServices
+com.example.fitnesschallenge.app-updated_navigation_xml-2 C:\Users\DELL\Desktop\FitnessChallengeManagementSystem\app\build\generated\updated_navigation_xml\debug
+com.example.fitnesschallenge.app-packageDebugResources-3 C:\Users\DELL\Desktop\FitnessChallengeManagementSystem\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.fitnesschallenge.app-packageDebugResources-4 C:\Users\DELL\Desktop\FitnessChallengeManagementSystem\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.fitnesschallenge.app-debug-5 C:\Users\DELL\Desktop\FitnessChallengeManagementSystem\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.fitnesschallenge.app-debug-6 C:\Users\DELL\Desktop\FitnessChallengeManagementSystem\app\src\debug\res
+com.example.fitnesschallenge.app-main-7 C:\Users\DELL\Desktop\FitnessChallengeManagementSystem\app\src\main\res
+gradleHome-0 C:\Users\DELL\.gradle
